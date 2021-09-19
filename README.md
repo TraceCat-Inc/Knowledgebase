@@ -1,0 +1,2 @@
+# Knowledgebase
+Tracecat Knowledgebase. 
